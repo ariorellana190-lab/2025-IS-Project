@@ -1,0 +1,45 @@
+body {
+background-color: lightblue;
+font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.common {
+    background-color: grey;
+    border: 2px solid white;
+    position: absolute;
+    
+}
+.header {
+    top: 5px;
+    left:5px;
+    right: 5px;
+    height: 100px;
+
+}
+
+.left {
+      top: 115 px;
+      left: 5px;
+      bottom: 40px;
+      width: 100px;
+}
+.main {
+    top:115 px;
+    left: 130 px;
+    right: 140 px;
+    bottom: 40px;
+
+}
+.right {
+     top: 115 px;
+     right:25 px;
+     width: 100 px;
+     bottom: 40 px;
+
+}
+.footer{
+    bottom:5px;
+    height: 25px;
+    left:15 px;
+    right: 25 px;
+    position: fixed}
